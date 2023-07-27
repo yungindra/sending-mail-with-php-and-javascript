@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sending Mail with PHP and JavaScript Handler
 
 ##  Description:
@@ -21,3 +22,6 @@ Ensure you have a PHP server set up to run the application locally. You can use 
 Start the PHP server and navigate to the project's root folder in your browser.
 Fill in the required fields in the form, and the application will handle the email sending process.
 
+=======
+# sending-mail-with-php-and-javascript
+>>>>>>> 84dd80bfdc18ee7b5a7214718460c1361ac47bd7
