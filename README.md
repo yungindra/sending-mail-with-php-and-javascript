@@ -14,7 +14,7 @@ This project demonstrates a simple web application for sending emails using PHP 
 
 4. Styling: The user interface is styled with CSS to provide a visually pleasing and user-friendly experience.<br/><br/><br/>
 
-##Instructions:
+## Instructions:
 
 ###  Clone the repository to your local machine.
 Open the form/send.php file and fill in your Gmail username, password, SMTP port, and recipient's email address.
